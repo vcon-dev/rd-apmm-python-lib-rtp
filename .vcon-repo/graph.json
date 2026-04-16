@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "rd-apmm-python-lib-rtp",
+  "repo_version": null,
+  "archetype": "fork",
+  "generated_at": "2026-04-16T15:15:45.214408+00:00",
+  "stats": {
+    "node_count": 5,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    },
+    {
+      "id": "component:debian",
+      "type": "component",
+      "name": "debian",
+      "file": "debian",
+      "description": "1 files"
+    },
+    {
+      "id": "component:rpm",
+      "type": "component",
+      "name": "rpm",
+      "file": "rpm",
+      "description": "1 files"
+    },
+    {
+      "id": "component:rtp",
+      "type": "component",
+      "name": "rtp",
+      "file": "rtp",
+      "description": "7 files"
+    },
+    {
+      "id": "component:tests",
+      "type": "component",
+      "name": "tests",
+      "file": "tests",
+      "description": "4 files"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
